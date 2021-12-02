@@ -5,3 +5,5 @@ targeturl: "tailieubkhn.com"
 baseurl: "tailieubkhn"
 github:
   is_project_page: false
+
+theme: jekyll-theme-architect
